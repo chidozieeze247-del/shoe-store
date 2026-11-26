@@ -31,7 +31,6 @@ header{
 header a:hover{
     color: gold;
     transition: 0.5s;
-    position: fixed;
 }
 .navbar {
     display: flex;
